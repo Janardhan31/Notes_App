@@ -3,3 +3,6 @@
 *{
   font-family: 'gilroy';
 }
+::selection{
+  color: rgb(232, 149, 15);
+}
